@@ -1,13 +1,10 @@
 {
-  "name": "Just Lift",
-  "short_name": "Just Lift",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#08090b",
-  "theme_color": "#ff4b0b",
-  "description": "Just Lift — workout logging and progressive overload tracker.",
-  "icons": [
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
-  ]
+  "name":"Just Lift",
+  "short_name":"Just Lift",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#08090b",
+  "theme_color":"#ff4b0b",
+  "description":"Just Lift — workout logging and progressive overload tracker.",
+  "icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"}]
 }
